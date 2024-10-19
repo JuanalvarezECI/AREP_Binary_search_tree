@@ -22,6 +22,10 @@ To run this application, you need the following software installed:
 - **Java Development Kit (JDK)**: Version 8 or higher.
 - **IntelliJ IDEA**: Version 2023.2.7 or higher.
 - **JUnit 5**: For running the test cases.
+- Download the JUnit .jar file from the official JUnit website and add the JUnit .jar to your project’s build path. You can do this by:
+  - Right-click on the project in your IDE (e.g., Eclipse, IntelliJ).
+  - Navigate to Build Path > Configure Build Path.
+  - Click on Libraries and add the JUnit .jar file you downloaded.
 
 Ensure that your environment is set up with these versions to avoid compatibility issues.
 ## Features
