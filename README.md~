@@ -61,7 +61,7 @@ Install git and clone the repository
 git clone https://github.com/JuanalvarezECI/AREP_Binary_search_tree
 ```
 Open the project in IntelliJ IDEA and run the main method in the App class to start the application. You can also run the test cases in the Test class to verify the functionality of the BST implementation.
-![img.png](Resources/img2.png)
+
 ## Testing
 
 The implementation is tested with various inputs to ensure that all methods function as expected. The tests include:
